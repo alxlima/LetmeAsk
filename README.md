@@ -22,8 +22,8 @@
 
   ![GitHub user](https://img.shields.io/static/v1?label=Made_by&message=Alex_Lima&color=6E40C9&labelColor=000000)
   ![GitHub License](https://img.shields.io/static/v1?label=License&message=MIT&color=6E40C9&labelColor=000000)
-  ![GitHub last commit](https://img.shields.io/github/last-commit/alxlima/Podcastr-next?color=6E40C9&labelColor=000000)
-  ![GitHub repo size](https://img.shields.io/github/repo-size/alxlima/Podcastr-next?color=6E40C9&labelColor=000000)
+  ![GitHub last commit](https://img.shields.io/github/last-commit/alxlima/LetmeAsk?color=6E40C9&labelColor=000000)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/alxlima/LetmeAsk?color=6E40C9&labelColor=000000)
   
    <!-- <img src="https://img.shields.io/static/v1?label=made by&message=Alex Lima&color=6E40C9&labelColor=000000" alt="Alex Lima" />
   <img alt="Last commit" src="https://img.shields.io/static/v1?label=Last commit&message=April&color=6E40C9&labelColor=000000">
@@ -90,6 +90,20 @@
 <br>
 <br>
 
+
+## 🚀 Tecnologias
+
+- [HTML5](https://pt.wikipedia.org/wiki/HTML5) - Hyper Text Markup Language - linguagem de marcação de hipertexto.
+- [SAS-CSS](https://sass-lang.com/) - Cascading Style Sheets - Estilização de código html.
+- [React](https://reactjs.org/) - Biblioteca JavaScript para criação de Interfaces (Front-End)
+- [Firebase](https://firebase.google.com/?hl=pt) - Realtime Database, plataforma de desenvolvimento de aplicativos móveis do Google.
+- [TypeScript](https://www.typescriptlang.org/) - Conjunto da linguagem JavaScript com definições de tipo estático.
+- [Node.js](https://nodejs.org/en/) - Ambiente de execução Javascript server-side.
+- [JSON](https://www.json.org/json-en.html) - JavaScript Object Notation - Tranferencia de dados cliente servidor.
+- [VS Code](https://code.visualstudio.com/) - Editor de desenvolvimento de aplicações web.
+
+<br>
+
 <!----- Configurations ---------------------------->
 ## 📌 Instruções : 
 
@@ -125,18 +139,6 @@
 
 <br>
 
-## 🚀 Tecnologias
-
-- [HTML5](https://pt.wikipedia.org/wiki/HTML5) - Hyper Text Markup Language - linguagem de marcação de hipertexto.
-- [SAS-CSS](https://sass-lang.com/) - Cascading Style Sheets - Estilização de código html.
-- [React](https://reactjs.org/) - Biblioteca JavaScript para criação de Interfaces (Front-End)
-- [Firebase](https://firebase.google.com/?hl=pt) - Realtime Database, plataforma de desenvolvimento de aplicativos móveis do Google.
-- [TypeScript](https://www.typescriptlang.org/) - Conjunto da linguagem JavaScript com definições de tipo estático.
-- [Node.js](https://nodejs.org/en/) - Ambiente de execução Javascript server-side.
-- [JSON](https://www.json.org/json-en.html) - JavaScript Object Notation - Tranferencia de dados cliente servidor.
-- [VS Code](https://code.visualstudio.com/) - Editor de desenvolvimento de aplicações web.
-
-<br>
 
 ## 📝 Licença
 <a href="https://opensource.org/licenses/MIT">
